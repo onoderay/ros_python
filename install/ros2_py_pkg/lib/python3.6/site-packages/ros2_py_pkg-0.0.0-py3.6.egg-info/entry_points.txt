@@ -1,0 +1,4 @@
+[console_scripts]
+my_listener = python_programs.listener:main
+my_talker = python_programs.talker:main
+

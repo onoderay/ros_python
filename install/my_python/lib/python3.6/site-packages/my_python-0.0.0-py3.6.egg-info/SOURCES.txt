@@ -1,0 +1,12 @@
+setup.cfg
+setup.py
+/home/yuyonod/ros_python/ros_python/build/my_python/my_python.egg-info/PKG-INFO
+/home/yuyonod/ros_python/ros_python/build/my_python/my_python.egg-info/SOURCES.txt
+/home/yuyonod/ros_python/ros_python/build/my_python/my_python.egg-info/dependency_links.txt
+/home/yuyonod/ros_python/ros_python/build/my_python/my_python.egg-info/entry_points.txt
+/home/yuyonod/ros_python/ros_python/build/my_python/my_python.egg-info/requires.txt
+/home/yuyonod/ros_python/ros_python/build/my_python/my_python.egg-info/top_level.txt
+/home/yuyonod/ros_python/ros_python/build/my_python/my_python.egg-info/zip-safe
+python_programs/__init__.py
+python_programs/listener.py
+python_programs/talker.py

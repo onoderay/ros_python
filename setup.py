@@ -1,11 +1,11 @@
 from setuptools import setup
 
-package_name = 'my_python'
+package_name = 'ros2_py_pkg'
 
 setup(
-    name=python_pkg,
+    name=package_name,
     version='0.0.0',
-    packages=[],
+    packages=[package_name,],
     py_modules=[
         'python_programs.talker',
         'python_programs.listener',
